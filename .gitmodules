@@ -1,0 +1,3 @@
+[submodule "Gpay"]
+	path = Gpay
+	url = https://github.com/Aryan8899/Gpay.git
